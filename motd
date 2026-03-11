@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Nightcrawler Mod</title>
+
+<style>
+
+body{
+background:#000;
+color:#FFB000;
+font-family:Verdana, Tahoma, sans-serif;
+margin:0;
+padding:0;
+text-align:center;
+}
+
+.container{
+width:560px;
+margin:auto;
+padding:10px;
+}
+
+.banner img{
+width:520px;
+height:140px;
+border:2px solid #333;
+margin-bottom:10px;
+}
+
+h1{
+font-size:28px;
+margin:5px 0 15px 0;
+animation:glow 2s infinite alternate;
+}
+
+@keyframes glow{
+from{
+color:#FF4444;
+text-shadow:0 0 5px #FF0000,0 0 15px #FF0000;
+}
+to{
+color:#FFD700;
+text-shadow:0 0 10px #FFD700,0 0 25px #FFD700;
+}
+}
+
+.panel{
+background:#111;
+border:1px solid #333;
+padding:12px;
+margin-top:10px;
+text-align:left;
+}
+
+.panel h2{
+color:#FFA500;
+margin-top:0;
+}
+
+.command{
+margin-bottom:3px;
+}
+
+.footer{
+margin-top:15px;
+padding:10px;
+border-top:1px solid #333;
+font-size:13px;
+color:#AAA;
+}
+
+.serverbox{
+background:#0a0a0a;
+border:1px solid #444;
+padding:8px;
+margin-top:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="banner">
+<img src="https://i.imgur.com/7vzAMvu.jpeg">
+</div>
+
+<h1>[NC] Nightcrawler Mod</h1>
+
+<div class="panel">
+
+<h2>Welcome</h2>
+
+Humans must survive and eliminate the <b>Nightcrawlers</b> while Nightcrawlers hunt silently in the darkness.<br><br>
+
+<b>Game Overview</b><br>
+Humans rely on teamwork, equipment, and special items to survive.<br>
+Nightcrawlers rely on stealth, mobility, and surprise attacks.
+
+</div>
+
+<div class="panel">
+
+<h2>Server Rules</h2>
+
+* No cheating or scripting advantages<br>
+* No exploiting map or game bugs<br>
+* Respect players and admins<br>
+* No spam or microphone abuse<br>
+* No harassment or toxic behavior<br>
+* Play the objective and support teammates<br>
+* Follow admin instructions<br>
+
+</div>
+
+<div class="panel">
+
+<h2>Commands</h2>
+
+<div class="command"><b>/menu</b> - Open item menu</div>
+<div class="command"><b>/guns</b> - Select your weapons</div>
+<div class="command"><b>/help</b> - View gameplay help</div>
+<div class="command"><b>F</b> - Use your special item</div>
+<div class="command"><b>+sprint</b> - Activate stamina</div>
+<div class="command"><b>+tmine</b> - Plant tripmine</div>
+<div class="command"><b>+pickupmine</b> - Pick up mines</div>
+
+</div>
+
+<div class="panel">
+
+<h2>Human Tips</h2>
+
+* Stay together and watch each other's backs<br>
+* Use sonar scans to detect Nightcrawlers<br>
+* Secure chokepoints with mines<br>
+* Protect teammates and avoid isolation
+
+</div>
+
+<div class="panel">
+
+<h2>Nightcrawler Tips</h2>
+
+* Stay hidden and strike from darkness<br>
+* Use teleport to ambush humans<br>
+* Climb walls for unexpected angles<br>
+* Target isolated players first
+
+</div>
+
+<div class="serverbox">
+
+<b>Server Information</b><br><br>
+
+IP: <b>YOUR_SERVER_IP</b><br>
+Discord: <b>discord.gg/YOURDISCORD</b>
+
+</div>
+
+<div class="footer">
+
+Good luck. The hunt has begun.
+
+</div>
+
+</div>
+
+</body>
+</html>
